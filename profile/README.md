@@ -37,7 +37,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/itssweetrain"><img src="https://avatars.githubusercontent.com/u/76150928?v=4" width="100px;" alt="itssweetrain"/><br /><sub><b>박단비</b></sub></a><br /><p style="font-size: 14px">안드로이드</p</td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/choidaye/"><img src="https://avatars.githubusercontent.com/u/26568800?v=4" width="100px;" alt="choidaye"/><br /><sub><b>최다예</b></sub></a><br /><p style="font-size: 14px">디자인,PM</p></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dev-taeyeong"><img src="https://avatars.githubusercontent.com/u/87692499?v=4" width="100px;" alt="dev-taeyeong"/><br /><sub><b>정태영</b></sub></a><br /><p style="font-size: 14px">백엔드</p></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tape22"><img src="https://avatars.githubusercontent.com/u/35520314?v=4" width="100px;" alt="tape22"/><br /><sub><b>허정민</b></sub></a><br /><p style="font-size: 14px">백엔드</p></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tape22"><img src="https://avatars.githubusercontent.com/u/35520314?v=4" width="100px;" alt="tape22"/><br /><sub><b>허정민</b></sub></a><br /><p style="font-size: 14px">백엔드,운영</p></td>
     </tr>
   </tbody>
 </table>
